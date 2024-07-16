@@ -13,6 +13,7 @@ public class CICDCont {
     System.out.println("-> CICDCont created.");
   }
 
+  // push test
   // http://localhost:9091/cicd?sw=-1
   // http://localhost:9091/cicd?sw=0
   // http://localhost:9091/cicd?sw=1
